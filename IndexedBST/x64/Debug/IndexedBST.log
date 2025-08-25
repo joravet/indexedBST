@@ -1,0 +1,3 @@
+﻿  IndexedBST.cpp
+C:\Users\jokes\source\repos\IndexedBST\IndexedBST\IndexedBST.cpp(234): warning C4715: 'IndexedBST::remove': not all control paths return a value
+  IndexedBST.vcxproj -> C:\Users\jokes\source\repos\IndexedBST\x64\Debug\IndexedBST.exe
